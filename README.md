@@ -19,19 +19,19 @@ For a venture capital fund to be successful, it is important to evaluate a poten
 * The purpose of this application is to build and optimize a deep neural network model for evaluating the potential success of a startup company.  The model will be fit on a scaled dataset of over 30,000 companies with information on their success or failure.
 
 * The features of this model will include:
-    1) APPLICATION_TYPE
-    2) AFFILIATION
-    3) CLASSIFICATION
-    4) USE_CASE
-    5) ORGANIZATION
-    6) STATUS
-    7) INCOME_AMT
-    8) SPECIAL_CONSIDERATIONS
-    9) ASK_AMT
+1) APPLICATION_TYPE
+2) AFFILIATION
+3) CLASSIFICATION
+4) USE_CASE
+5) ORGANIZATION
+6) STATUS
+7) INCOME_AMT
+8) SPECIAL_CONSIDERATIONS
+9) ASK_AMT
 
 
 * The prediction to optimize in this model is the binary category:
-    10) IS_SUCCESSFUL
+10) IS_SUCCESSFUL
 
 
 * For this data set, a IS_SUCCESSFUL value of 0 is a failure, while a value of 1 is a success.
